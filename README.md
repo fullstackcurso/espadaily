@@ -1,4 +1,4 @@
-# EspaDaily - Addon para Kodi
+# EspaDaily 📺 - Addon para Kodi
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
@@ -47,7 +47,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 
 ---
 
-## ✨ Características
+## 🧩 Características
 
 - **Explorador Unificado**: Navega por Series, Programas, Documentales e Informativos de las principales cadenas de España desde una sola interfaz.
 - **Buscador Universal**: ¿No encuentras lo que buscas en los menús? Usa la búsqueda manual para localizar películas, series internacionales o cualquier vídeo en la red.
@@ -56,6 +56,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 - **Integración de Caché Híbrida**: Sistema inteligente que guarda los menús en tu dispositivo para una navegación ultra rápida, sin esperas de carga.
 - **Gestión de Favoritos e Historial**: Guarda tus vídeos preferidos para acceder rápidamente y organizalos de forma avanzada.
 - **Descargas**: Opción para descargar contenido y verlo offline (cuando el servidor lo permite).
+- **Sin publicidad, trackers ni software malicioso.**
 
 ---
 
