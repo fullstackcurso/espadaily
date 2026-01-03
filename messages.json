@@ -1,0 +1,18 @@
+{
+    "messages": [
+        {
+            "id": "welcome_v1",
+            "title": "¡Bienvenido a EspaDaily!",
+            "text": "Gracias por instalar EspaDaily.\n\nEste addon te permite acceder al contenido de las principales cadenas españolas de forma unificada.\n\nNovedades de la versión 1.0.0:\n- Buscador Global unificado\n- Historial de Búsquedas\n- Favoritos y 'Mi Lista'\n- Modo 'Cine' y filtros HD\n\n¡Que lo disfrutes!",
+            "color": "yellow",
+            "date": "2026-01-03"
+        },
+        {
+            "id": "tip_palantir",
+            "title": "Integración con Palantir 3",
+            "text": "Ahora puedes activar la opción de 'Buscar en Palantir' desde los ajustes avanzados para encontrar mejores calidades si tienes ese addon instalado.",
+            "color": "cyan",
+            "date": "2026-01-03"
+        }
+    ]
+}

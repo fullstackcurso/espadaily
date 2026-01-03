@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.espadaily" name="EspaDaily" version="1.0.0" provider-name="RubénSDFA1labernt">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Explora contenido de Atresplayer, RTVE y Mediaset</summary>
+    <description lang="es">EspaDaily permite explorar los catálogos de Atresplayer, RTVE Play y Mediaset Infinity, buscando vídeos públicos en internet que coincidan. Este addon no aloja ningún contenido, solo actúa como buscador. Creado por RubénSDFA1labernt.</description>
+    <platform>all</platform>
+    <license>CC BY-NC-SA 4.0</license>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.png</fanart>
+    </assets>
+  </extension>
+</addon>
