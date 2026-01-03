@@ -4,14 +4,12 @@
 
 ## Descripción
 
-**EspaDaily** es un potente addon para Kodi que combina la navegación por catálogos de TV española (**Atresplayer, RTVE Play, Mediaset Infinity**) con un buscador universal de vídeo capaz de localizar películas y series internacionales en internet.
+**EspaDaily** es un potente addon para Kodi que combina la navegación por catálogos de TV española con un buscador universal de vídeo. Funciona como un agregador que permite explorar la estructura de plataformas como Atresplayer, RTVE Play y Mediaset Infinity, buscando automáticamente enlaces públicos disponibles en internet para cada contenido.
 
 ### ⚠️ Aviso importante
 
 - Este addon **NO aloja ningún contenido**
 - Solo actúa como **buscador de vídeos** en plataformas públicas
-- No está configurado para buscar contenido ilegal ni protegido
-- Los resultados pueden variar (capítulos, trailers, resúmenes, etc.)
 
 <br>
 
@@ -24,7 +22,7 @@
 
 ---
 
-## Instalación
+## 📥 Instalación
 
 ### Opción 1: Desde el Administrador de Archivos de Kodi (Recomendado)
 Este es el método más sencillo ya que no requiere descargar archivos externos manualmente y permite actualizaciones automáticas:
@@ -49,32 +47,37 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 
 ---
 
-## Características
+## ✨ Características
 
-- ✅ **Todo en Uno**: Atresplayer, RTVE Play y Mediaset Infinity en un solo lugar.
-- ✅ **Buscador Universal**: Localiza películas, series extranjeras y vídeos sueltos.
-- ✅ **Integración Palantir**: Conecta búsquedas con Palantir 3 (si lo tienes instalado).
-- ✅ **Instantáneas y Backups**: Guarda menús offline y exporta tu configuración.
-- ✅ **Caché Híbrida**: Navegación instantánea guardando menús en local.
-- ✅ **Gestor de Favoritos e Historial**: Organización avanzada.
-- ✅ **Sin publicidad ni trackers**.
+- **Explorador Unificado**: Navega por Series, Programas, Documentales e Informativos de las principales cadenas de España desde una sola interfaz.
+- **Buscador Universal**: ¿No encuentras lo que buscas en los menús? Usa la búsqueda manual para localizar películas, series internacionales o cualquier vídeo en la red.
+- **Integración con Palantir**: Conecta búsquedas con Palantir 3 para ampliar resultados.
+- **Instantáneas y Backups**: Crea copias de seguridad de los menús y de tu configuración para portabilidad total.
+- **Integración de Caché Híbrida**: Sistema inteligente que guarda los menús en tu dispositivo para una navegación ultra rápida, sin esperas de carga.
+- **Gestión de Favoritos e Historial**: Guarda tus vídeos preferidos para acceder rápidamente y organizalos de forma avanzada.
+- **Descargas**: Opción para descargar contenido y verlo offline (cuando el servidor lo permite).
 
 ---
 
-## Requisitos
+## 📋 Requisitos
 
 - Kodi 19 (Matrix) o superior
 - Conexión a internet
 
 ---
 
-## Exención de responsabilidad
+## ⚖️ Aviso Legal
 
-El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
+**EspaDaily** es un proyecto independiente desarrollado sin ánimo de lucro.
+
+1.  **No Afiliación**: Este software NO tiene relación con Atresplayer, RTVE, Mediaset ni ninguna otra entidad oficial.
+2.  **Agregador de Búsqueda**: El addon NO aloja, sube ni distribuye contenido protegido. Actúa exclusivamente como un motor de búsqueda automatizado que indexa contenido ya disponible públicamente en internet.
+3.  **Responsabilidad**: El usuario es el único responsable del uso de la herramienta y de verificar la legalidad del acceso a los contenidos en su jurisdicción.
+4.  Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
 ---
 
-## Contacto y Soporte
+## 💬 Contacto y Soporte
 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
 
@@ -82,7 +85,7 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 
 ---
 
-### Filosofía
+### 📖 Filosofía
 Este proyecto nace con la intención de **facilitar el acceso a la cultura audiovisual** y no de sustituir a los servicios oficiales. Cabe destacar que la gran mayoría de los enlaces encontrados por esta herramienta apuntan a contenidos de **baja resolución** (frecuentemente inferiores a 720p), lo que dista mucho de la experiencia *premium* que ofrecen las plataformas de pago.
 
 ### Publicidad y Marketing Orgánico
