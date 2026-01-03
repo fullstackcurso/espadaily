@@ -35,13 +35,13 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 5. Vuelve al menú principal, entra en **Add-ons** y haz clic en el icono de la **cajita abierta** (arriba a la izquierda).
 6. Selecciona **Instalar desde archivo zip**.
    - *Nota: Si te sale un aviso de seguridad, ve a Ajustes y activa la opción "Orígenes desconocidos".*
-7. Selecciona la fuente `espadaily` y elige el archivo `repository.espadaily-1.0.0.zip`.
+7. Selecciona la fuente `espadaily` y elige el archivo `repository.espadaily-1.0.2.zip`.
 8. Espera a que aparezca la notificación de "Add-on instalado" (esto instala el repositorio).
 9. Ahora, en el mismo menú, selecciona **Instalar desde repositorio**.
 10. Entra en **EspaDaily Repository** > **Add-ons de vídeo** > **EspaDaily** y pulsa **Instalar**.
 
 ### Opción 2: Instalación manual mediante archivo ZIP
-1. Descarga el archivo `repository.espadaily-1.0.0.zip` de la última versión desde la sección de **[Releases](../../releases)**.
+1. Descarga el archivo `repository.espadaily-1.0.2.zip` de la última versión desde la sección de **[Releases](../../releases)**.
 2. En Kodi, ve a **Add-ons > Icono de la cajita > Instalar desde archivo zip**.
 3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
