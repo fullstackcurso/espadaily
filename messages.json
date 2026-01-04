@@ -1,18 +1,25 @@
 {
     "messages": [
         {
-            "id": "welcome_v1",
+            "id": "welcome_v2",
             "title": "¡Bienvenido a EspaDaily!",
-            "text": "Gracias por instalar EspaDaily.\n\nEste addon te permite acceder al contenido de las principales cadenas españolas de forma unificada.\n\nNovedades de la versión 1.0.0:\n- Buscador Global unificado\n- Historial de Búsquedas\n- Favoritos y 'Mi Lista'\n- Modo 'Cine' y filtros HD\n\n¡Que lo disfrutes!",
+            "text": "EspaDaily combina la navegación por catálogos de TV española con un buscador universal de vídeo, localizando listas públicas de plataformas como Atresplayer, RTVE Play y Mediaset.\n\n🧩 Características:\n- Explorador Unificado: Series, Programas y Documentales en una interfaz.\n- Buscador Universal: Encuentra películas y vídeos en la red.\n- Integración Palantir: Más resultados y calidad.\n- Caché Híbrida: Navegación ultra rápida.\n- Backups y Descargas: Portabilidad y modo offline.\n- Gestión Avanzada: Favoritos e Historial.\n- Privacidad: Sin publicidad ni trackers ni virus.\n\n⚠️ Aviso Importante:\nEste addon NO aloja contenido. Es un mero buscador y NO tiene relación con ninguna entidad oficial. El usuario es responsable de su uso.\n\nInfo: https://github.com/fullstackcurso/espadaily",
             "color": "yellow",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
         },
         {
-            "id": "tip_palantir",
+            "id": "tip_palantir_v2",
             "title": "Integración con Palantir 3",
-            "text": "Ahora puedes activar la opción de 'Buscar en Palantir' desde los ajustes avanzados para encontrar mejores calidades si tienes ese addon instalado.",
+            "text": "Ahora puedes activar la opción de 'Buscar en Palantir' desde los ajustes avanzados para encontrar más resultados y mejores calidades si tienes ese addon instalado.\n\nNota: Se ha detectado que esta integración no funciona correctamente con la skin Estuary Palantir.",
             "color": "cyan",
-            "date": "2026-01-03"
+            "date": "2026-01-04"
+        },
+        {
+            "id": "roadmap_v1",
+            "title": "Próximas Mejoras y Notas",
+            "text": "Cosas a mejorar en la próxima versión:\n\n-Cuando no se encuentra un video en Palantir automáticamente preguntar si deseas editar la búsqueda.\n-La opción de editar las palabras clave y buscar ha dejado de funcionar en el historial de exploración. Poner esa opción en más sitios.\n-Mas integraciones.\n-Mas listas personalizadas como la de Mejores..\n-Poner mensaje de que la integración con Palantir se ha probado con la Skin Estuary, y que se cree que no funciona en otras como Estuary Palantir.\n-Hacer vídeo explicativo de instalación, otro de uso y un Telegra.ph.\n\nMás info: https://t.me/espadaily",
+            "color": "green",
+            "date": "2026-01-04"
         }
     ]
 }
