@@ -1,25 +1,25 @@
 {
     "messages": [
         {
-            "id": "welcome_v2",
+            "id": "welcome_v3",
             "title": "¡Bienvenido a EspaDaily!",
-            "text": "EspaDaily combina la navegación por catálogos de TV española con un buscador universal de vídeo, localizando listas públicas de plataformas como Atresplayer, RTVE Play y Mediaset.\n\n🧩 Características:\n- Explorador Unificado: Series, Programas y Documentales en una interfaz.\n- Buscador Universal: Encuentra películas y vídeos en la red.\n- Integración Palantir: Más resultados y calidad.\n- Caché Híbrida: Navegación ultra rápida.\n- Backups y Descargas: Portabilidad y modo offline.\n- Gestión Avanzada: Favoritos e Historial.\n- Privacidad: Sin publicidad ni trackers ni virus.\n\n⚠️ Aviso Importante:\nEste addon NO aloja contenido. Es un mero buscador y NO tiene relación con ninguna entidad oficial. El usuario es responsable de su uso.\n\nInfo: https://github.com/fullstackcurso/espadaily",
+            "text": "Si algo no se encuentra en el catálogo, usa el buscador. El buscador no busca en el catálogo, busca en internet. Poco a poco se irá actualizando el catálogo.\n\nEspaDaily combina la navegación por catálogos de TV española con un buscador universal de vídeo, localizando listas públicas de plataformas como Atresplayer, RTVE Play y Mediaset.\n\nCaracterísticas:\n- Explorador Unificado: Series, Programas y Documentales en una interfaz.\n- Buscador Universal: Encuentra películas y vídeos en la red.\n- Integración Palantir: Más resultados y calidad.\n- Caché Híbrida: Navegación ultra rápida.\n- Backups y Descargas: Portabilidad y modo offline.\n- Gestión Avanzada: Favoritos e Historial.\n- Privacidad: Sin publicidad ni trackers ni virus.\n\nAviso Importante:\nEste addon NO aloja contenido. Es un mero buscador y NO tiene relación con ninguna entidad oficial. El usuario es responsable de su uso.\n\nInfo: https://github.com/fullstackcurso/espadaily",
             "color": "yellow",
-            "date": "2026-01-04"
+            "date": "2026-01-15"
         },
         {
-            "id": "tip_palantir_v2",
-            "title": "Integración con Palantir 3",
-            "text": "Ahora puedes activar la opción de 'Buscar en Palantir' desde los ajustes avanzados para encontrar más resultados y mejores calidades si tienes ese addon instalado.\n\nNota: Se ha detectado que esta integración no funciona correctamente con la skin Estuary Palantir.",
+            "id": "flow_favmanager_v1",
+            "title": "Flow FavManager",
+            "text": "Presentamos Flow FavManager: gestor avanzado de favoritos para Kodi. Organízalos de forma muy rápida y sencilla, crea copias de seguridad y mucho más.\n\nMantente al tanto de las novedades:\nhttps://t.me/espadaily\nhttps://github.com/fullstackcurso/",
             "color": "cyan",
-            "date": "2026-01-04"
+            "date": "2026-01-15"
         },
         {
-            "id": "roadmap_v1",
-            "title": "Próximas Mejoras y Notas",
-            "text": "Cosas a mejorar en la próxima versión:\n\n-Cuando no se encuentra un video en Palantir automáticamente preguntar si deseas editar la búsqueda.\n-La opción de editar las palabras clave y buscar ha dejado de funcionar en el historial de exploración. Poner esa opción en más sitios.\n-Mas integraciones.\n-Mas listas personalizadas como la de Mejores..\n-Poner mensaje de que la integración con Palantir se ha probado con la Skin Estuary, y que se cree que no funciona en otras como Estuary Palantir.\n-Hacer vídeo explicativo de instalación, otro de uso y un Telegra.ph.\n\nMás info: https://t.me/espadaily",
+            "id": "roadmap_v2",
+            "title": "Notas y Próximas Mejoras",
+            "text": "Tip: Puedes activar la opción de 'Buscar en Palantir' desde los ajustes avanzados para encontrar más resultados y mejores calidades si tienes ese addon instalado.\n\nCosas a mejorar en la próxima versión:\n\n-Cuando no se encuentra un video en Palantir automáticamente preguntar si deseas editar la búsqueda.\n-La opción de editar las palabras clave y buscar ha dejado de funcionar en el historial de exploración. Poner esa opción en más sitios.\n-Mas listas personalizadas como la de Mejores..\n-Hacer vídeo explicativo de instalación, otro de uso y un Telegra.ph.\n\nMás info: https://t.me/espadaily",
             "color": "green",
-            "date": "2026-01-04"
+            "date": "2026-01-15"
         }
     ]
 }
