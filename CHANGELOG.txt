@@ -24,13 +24,12 @@ Nuevo:
 - Integración con Flow FavManager
 - Editar y buscar desde historial de exploración
 
-v1.0.0 (2026-01-21)
+v1.0.0 (2026-01-4)
 --------------------
 Primera versión pública.
 
-- Navegación: Atresplayer, RTVE Play, Mediaset Infinity
+- Navegación: Аtrеѕрlаyеr, RТVЕ Play y Меdіаѕеt Infinity.
 - Buscador universal
-- Integración con Palantir 3
 - Sistema de Instantáneas
 - Backups (exportar/importar)
 - Historial de búsqueda
