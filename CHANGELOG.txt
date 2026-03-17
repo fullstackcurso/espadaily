@@ -1,7 +1,7 @@
 CHANGELOG - EspaDaily
 =====================
 
-v2.0.0 (2026-03-17)
+v2.0.0 (2026-Marzo-17)
 --------------------
 Reescritura casi completa del addon.
 
@@ -24,7 +24,7 @@ Nuevo:
 - Integración con Flow FavManager
 - Editar y buscar desde historial de exploración
 
-v1.0.0 (2026-01-4)
+v1.0.0 (2026-Enero-02)
 --------------------
 Primera versión pública.
 
