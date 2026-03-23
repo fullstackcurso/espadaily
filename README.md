@@ -116,5 +116,6 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 - Te invitamos a compartir este addon con tus amigos y familiares, y a unirte a nuestra comunidad en Telegram, pero rogamos encarecidamente que no se le dé publicidad en medios masivos ni redes sociales abiertas.
 - En este caso concreto preferimos un crecimiento orgánico.
 
+---
 
 *Addon desarrollado por fullstackcurso*
