@@ -1,19 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.espadaily" name="EspaDaily Repository" version="1.0.2" provider-name="RubénSDFA1labernt">
-    <extension point="xbmc.addon.repository" name="EspaDaily Repository">
-        <dir>
-            <info compressed="false">https://fullstackcurso.github.io/espadaily/addons.xml</info>
-            <checksum>https://fullstackcurso.github.io/espadaily/addons.xml.md5</checksum>
-            <datadir zip="true">https://fullstackcurso.github.io/espadaily/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="es">Repositorio de EspaDaily</summary>
-        <description lang="es">Repositorio oficial para instalar y actualizar el addon EspaDaily.</description>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
-        </assets>
-    </extension>
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.espadaily" name="EspaDaily" version="2.0.1" provider-name="RubénSDFA1labernt">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Explorador de catálogos de TV española con buscador universal</summary>
+    <description lang="es">EspaDaily permite explorar catálogos de televisión española y buscar vídeos públicos en internet que coincidan. No aloja contenido, solo actúa como buscador. Creado por RubénSDFA1labernt.</description>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
 </addon>
