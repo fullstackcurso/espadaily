@@ -55,7 +55,6 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 - **TV en Directo**: Acceso rápido a canales TDT en vivo y listas IPTV.
 - **Listas de Trakt.tv**: Explora listas de películas y series de la comunidad Trakt.
 - **Tendencias y Top Películas**: Descubre lo más visto y las películas mejor valoradas de la historia.
-- **Integración con Palantir**: Conecta búsquedas con Palantir 3 para ampliar resultados.
 - **Instantáneas y Backups**: Crea copias de seguridad de los menús y de tu configuración para portabilidad total.
 - **Caché Inteligente**: Guarda los menús en tu dispositivo para una navegación instantánea, sin esperas de carga.
 - **Gestión de Favoritos e Historial**: Guarda tus vídeos preferidos y organízalos de forma avanzada.
