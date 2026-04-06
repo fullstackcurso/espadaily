@@ -82,7 +82,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto:
 
 **Webs:**
-- [EspaTV (REPOSITORIO PRINCIPAL](https://github.com/espatv)
+- [EspaTV (REPOSITORIO PRINCIPAL)](https://github.com/espatv)
 - [FullStackCurso](https://github.com/fullstackcurso)
 - [EspaKodi](https://github.com/espakodi)
 - [LoioLoio (INTERNACIONAL)](https://github.com/loioloio)
