@@ -2,10 +2,6 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-## Descripción
-
-**EspaDaily** es un addon para Kodi que combina la navegación por catálogos de televisión española con un buscador universal de vídeo. Permite explorar que contenido tiene las principales plataformas de TV en España, y buscar vídeos públicos disponibles en internet para cada contenido.
-
 ### ⚠️ Aviso importante
 
 - Este addon **NO aloja ningún contenido**
