@@ -6,7 +6,7 @@
 
 - Este addon **NO aloja ningún contenido**.
 - **Privacidad Responsable**: No recopila datos personales.
-- **Es un proyecto independiente desarrollado sin ánimo de lucro.**.
+- **Es un proyecto independiente desarrollado sin ánimo de lucro**.
 
 
 <p align="center">
