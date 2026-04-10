@@ -2,7 +2,7 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-### ⚠️ Aviso importante
+### Aviso importante
 
 - Este addon **NO aloja ningún contenido**
 - Solo actúa como **buscador de vídeos** en plataformas públicas
@@ -13,7 +13,7 @@
   <!-- <img src="capturas/screenshot2.png" alt="Categorías" width="600"> -->
 </p>
 
-## 🧩 Características
+## Características
 
 - **Instantáneas y Backups**: Crea copias de seguridad de los menús y de tu configuración para portabilidad total.
 - **Caché Inteligente**: Guarda los menús en tu dispositivo para una navegación instantánea, sin esperas de carga.
@@ -22,7 +22,7 @@
 - **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente.
 - **Privacidad Responsable**: No se recopilan datos personales.
 
-## ⚖️ Aviso Legal
+## Aviso Legal
 
 **EspaDaily** es un proyecto independiente desarrollado sin ánimo de lucro.
 
