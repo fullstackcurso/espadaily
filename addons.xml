@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <addons>
-<addon id="plugin.video.espadaily" name="EspaDaily" version="2.0.1" provider-name="RubénSDFA1labernt">
+<addon id="plugin.video.espadaily" name="EspaDaily" version="3.0.0" provider-name="RubénSDFA1laberot">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -10,7 +10,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="es">Explorador de catálogos de TV española con buscador universal</summary>
-    <description lang="es">EspaDaily permite explorar catálogos de televisión española y buscar vídeos públicos en internet que coincidan. No aloja contenido, solo actúa como buscador. Creado por RubénSDFA1labernt.</description>
+    <description lang="es">EspaDaily permite explorar catálogos de televisión española y buscar vídeos públicos en internet que coincidan. No aloja contenido, solo actúa como buscador. Creado por RubénSDFA1laberot.</description>
     <platform>all</platform>
     <license>GPL-2.0-or-later</license>
     <assets>
