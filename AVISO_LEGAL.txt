@@ -72,6 +72,10 @@ Este software recopila de forma automática datos técnicos pseudonimizados, sin
 Dado que los datos recopilados son estrictamente pseudoanónimos y el desarrollador no dispone de mecanismo alguno para vincular un registro concreto con la identidad de un usuario (Art. 11 RGPD), los derechos de acceso, rectificación, supresión y oposición no pueden ejercerse sobre registros individuales. El mecanismo de opt-out disponible es la eliminación del archivo "stats.json", que destruye el UUID local y desvincula cualquier envío futuro del historial previo.
 Cualquier otra interacción de red (cookies, IPs) se realiza directamente entre el dispositivo del usuario y los servidores del proveedor de contenido, sujeta a las políticas de privacidad de dichos proveedores.
 
+ACEPTACIÓN Y REVOCACIÓN DEL CONSENTIMIENTO
+La aceptación de estos términos se formaliza mediante un diálogo explícito que se muestra al iniciar el addon por primera vez. Sin aceptación, el addon no accede a ningún contenido externo.
+El usuario puede revocar su consentimiento en cualquier momento mediante clic derecho sobre los elementos "EspaKodi e Información" o "Términos y Condiciones" del menú principal, seleccionando la opción "Revocar Aceptación de Términos". Tras la revocación, el addon quedará inutilizable hasta que se acepten de nuevo los términos en la siguiente ejecución.
+
 LICENCIA
 El código fuente público de este proyecto se distribuye bajo licencia GPL-2.0-or-later. Se permite su uso, estudio y distribución siempre que se mantenga la atribución al autor original y este aviso legal.
 
