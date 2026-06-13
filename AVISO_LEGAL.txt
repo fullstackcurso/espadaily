@@ -52,17 +52,24 @@ Este software puede ofrecer funcionalidades de interoperabilidad con otros addon
  c) La instalación y uso de cualquier addon externo es decisión y responsabilidad exclusiva del usuario.
  d) La reproducción puede delegarse en un addon externo que el usuario haya instalado y configurado voluntariamente. EspaDaily no descifra contenido cifrado, no rompe sistemas de seguridad activos ni elude medidas técnicas de protección (DRM). Si un contenido requiere autenticación, esta se realiza exclusivamente dentro del addon externo correspondiente con las credenciales propias del usuario; EspaDaily no almacena, gestiona ni transmite dichas credenciales. El addon se limita a acceder a recursos servidos por el proveedor sin protección técnica aplicada en el momento del acceso.
 
+BÚSQUEDA EN REDES P2P (ACESTREAM)
+El software incluye una funcionalidad opcional de consulta a la API pública oficial de la red AceStream (search.acestream.net), análoga técnicamente a una consulta a cualquier motor de búsqueda web. Esta funcionalidad se distribuye desactivada por defecto y su activación requiere una acción consciente y explícita del usuario en el menú de ajustes del addon.
+El software no aloja, replica, indexa de forma propia ni distribuye identificadores AceStream. Cada consulta se realiza en tiempo real contra la API pública del propio proveedor del protocolo, en las mismas condiciones técnicas en que lo haría cualquier navegador web. Los términos introducidos por el usuario no se almacenan en disco dentro del addon ni se transmiten a terceros distintos del propio servicio consultado.
+La reproducción de los identificadores obtenidos requiere software externo independiente (Plexus, Horus u otro reproductor compatible con el protocolo AceStream) que el usuario debe instalar y configurar por su cuenta. Este software no incluye dicho componente ni implementa el protocolo AceStream. De hecho, las opciones relacionadas con AceStream solo son visibles en la interfaz cuando se detecta al menos uno de esos reproductores externos instalado en el sistema del usuario.
+AceStream es una tecnología de uso dual. Existe contenido lícito y contenido ilícito accesible mediante esta tecnología, en las mismas condiciones que cualquier red P2P o motor de búsqueda generalista. La elección de los términos buscados y la legalidad del contenido finalmente reproducido son responsabilidad exclusiva del usuario, conforme al régimen general establecido en la sección "RESPONSABILIDAD DEL USUARIO FINAL Y TÉRMINOS DE TERCEROS".
+
 PRIVACIDAD Y DATOS (GDPR)
-Responsable del tratamiento: RubénSDFA1laberot. Contacto a través de Telegram (canal indicado en el repositorio oficial).
+Responsable del tratamiento: RubénSDFA1laberot. Contacto a través de los canales indicados en el repositorio oficial.
 Este software recopila de forma automática datos técnicos pseudonimizados, sin vinculación con la identidad personal del usuario, con el único fin de saber qué versiones requieren soporte prioritario para mejorar el software y planificar su desarrollo:
  a) Un identificador aleatorio (UUID) generado localmente, no vinculado a ningún dato personal ni a la identidad del usuario, cuyo único propósito es evitar contabilizar varias veces una misma instalación.
- b) La plataforma del dispositivo, la versión del addon y la versión de Kodi.
+ b) La plataforma del dispositivo, el identificador del addon, la versión del addon y la versión de Kodi.
  c) Una marca temporal ("last_seen") que se actualiza con cada envío y permite eliminar periódicamente los registros de instalaciones inactivas.
- d) Estos datos se envían periódicamente a un servicio externo. La base jurídica de este tratamiento es el interés legítimo del desarrollador (Art. 6.1.f RGPD) en la mejora y mantenimiento del software.
+ d) Estos datos se envían periódicamente a un servicio externo. La retención en el servidor remoto es de 30 días, tras los cuales los registros inactivos se eliminan automáticamente. La base jurídica de este tratamiento es el interés legítimo del desarrollador (Art. 6.1.f RGPD) en la mejora y mantenimiento del software.
  e) El desarrollador NO recopila ni almacena direcciones IP de los usuarios.
  f) El usuario puede desactivar esta telemetría en cualquier momento eliminando el archivo "stats.json" ubicado en la carpeta de perfil del addon.
  g) Los datos pueden tratarse en servidores ubicados fuera del Espacio Económico Europeo (EEE), bajo Cláusulas Contractuales Tipo (Standard Contractual Clauses) aprobadas por la Comisión Europea.
  h) El resto del procesamiento (favoritos, historial, búsquedas, preferencias) se realiza exclusivamente de forma local en el dispositivo del usuario.
+Dado que los datos recopilados son estrictamente pseudoanónimos y el desarrollador no dispone de mecanismo alguno para vincular un registro concreto con la identidad de un usuario (Art. 11 RGPD), los derechos de acceso, rectificación, supresión y oposición no pueden ejercerse sobre registros individuales. El mecanismo de opt-out disponible es la eliminación del archivo "stats.json", que destruye el UUID local y desvincula cualquier envío futuro del historial previo.
 Cualquier otra interacción de red (cookies, IPs) se realiza directamente entre el dispositivo del usuario y los servidores del proveedor de contenido, sujeta a las políticas de privacidad de dichos proveedores.
 
 LICENCIA
@@ -98,4 +105,4 @@ MODIFICACIONES DEL AVISO LEGAL
 El autor se reserva el derecho a modificar este Aviso Legal en cualquier momento. Los cambios se reflejarán en la fecha de "Última actualización" indicada al pie del documento. El uso continuado del software tras dichas modificaciones implica la aceptación de la versión vigente.
 
 
-Última actualización: mayo 2026
+Última actualización: junio 2026
